@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058248072424",
+    "firebase_url": "https://evesbody-mobile.firebaseio.com",
+    "project_id": "evesbody-mobile",
+    "storage_bucket": "evesbody-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058248072424:android:481f7e40a89e40c5e1bd5d",
+        "android_client_info": {
+          "package_name": "com.evesbody.app.medspa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058248072424-h922gp6m3jtuqp2viufmvmg120rp511d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evesbody.app.medspa",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1058248072424-914f6fep03bpis7d57ofqn85ohsvv776.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhyidZKTBgfm-1GF01RNe4CKH9nRlHF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058248072424-914f6fep03bpis7d57ofqn85ohsvv776.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

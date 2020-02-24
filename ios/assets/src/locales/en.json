@@ -1,0 +1,19 @@
+{
+  "appName": "MedSpa",
+  "dataField": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "landing": {
+    "title": "Come Experience",
+    "subtitle": "Natural beautification from the inside out.",
+    "bookNow": "Book Now",
+    "createNew": "Create an Account",
+    "haveAccount": "Already have an account?",
+    "logIn": "Log In"
+  }
+}
