@@ -17,10 +17,6 @@ This app is the react native one using Firebase Realtime Database.
 ### Getting Started
 
 Clone the repository in your pc using git.
-```sh
-$ git clone https://github.com/superdev115/MedSpa.git
-$ cd MedSpa
-```
 Install node packages
 ```sh
 $ npm install
